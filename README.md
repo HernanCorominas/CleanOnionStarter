@@ -17,13 +17,13 @@ El proyecto implementa el patrón **Generic Repository**, uso de **DTOs** para l
 
 ## Tecnologías y Herramientas
 
-- .NET (versión que uses)
+- .NET
 - C#
 - Entity Framework Core
 - AutoMapper
 - Generic Repository Pattern
 - Arquitectura Limpia + Onion Architecture
-- SQL Server (o la base de datos que utilices)
+- SQL Server 
 
 ---
 
